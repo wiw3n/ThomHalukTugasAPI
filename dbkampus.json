@@ -1,5 +1,5 @@
 {
-"sapu_kampus":[
+"sapunyakampus":
 [{"id":1,"Nama Kampus":"Université de Poitiers","Kategori":"Wenshao"},
 {"id":2,"Nama Kampus":"Toho Gakuen School of Music","Kategori":"Xingfu"},
 {"id":3,"Nama Kampus":"Lithunian University of Agriculture","Kategori":"Rozhnyativ"},
@@ -99,5 +99,4 @@
 {"id":48,"Nama Kampus":"Xi'an University of Technology","Kategori":"Szczawno-Zdrój"},
 {"id":49,"Nama Kampus":"Ho Chi Minh City University of Social Sciences and Humanities","Kategori":"Jeju-si"},
 {"id":50,"Nama Kampus":"National College of Art and Design","Kategori":"Mansôa"}]
-]
 }
